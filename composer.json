@@ -1,0 +1,20 @@
+{
+    "name": "redcode/twigjs-compiler",
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Reddikh",
+            "email": "andrew@reddikh.com",
+            "homepage": "http://reddikh.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "jms/twig-js": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8",
+        "fabpot/php-cs-fixer": "^1.10"
+    }
+}
