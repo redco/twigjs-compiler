@@ -1,0 +1,6 @@
+functions:
+  - customFunction1
+  - customFunction2
+filters:
+  - customFilter1
+  - customFilter2
